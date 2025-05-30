@@ -8,7 +8,8 @@ app = Flask(__name__)
 def index():
     return send_from_directory('.', 'index.html')
 
-# Fetch data from the GKE service
+# Fetch data fro the GKE service
+
 @app.route('/fetch')
 def fetch_gke_data():
     try:
@@ -18,6 +19,6 @@ def fetch_gke_data():
         return response.text
     except Exception as e:
         return f"Error: {str(e)}", 500
-
+    
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8080)

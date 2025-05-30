@@ -1,4 +1,4 @@
-##########For NGINX##########
+##########For NGINX#########
 # Use the official Nginx image
 #FROM nginx:latest
 

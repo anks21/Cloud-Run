@@ -4,7 +4,7 @@ substitutions:
   _IMAGE: 'asia-south1-docker.pkg.dev/pvt-stage/stage-repo/stage-project-image:v-1.0'
   _REGION: 'asia-south1'
 
-# Specify the logs bucket to store build logs
+# Specify the logs  bucket to store build logs
 logsBucket: gs://cloud-build-logs-00
 
 steps:
