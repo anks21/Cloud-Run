@@ -3,8 +3,8 @@
 
  Directory of C:\Windows\system32
 
-19-07-2025  10:47 AM    <DIR>          .
-19-07-2025  10:47 AM    <DIR>          ..
+21-07-2025  03:58 PM    <DIR>          .
+21-07-2025  03:58 PM    <DIR>          ..
 23-06-2025  11:15 PM    <DIR>          %userprofile%
 07-12-2019  03:20 PM    <DIR>          0409
 07-12-2019  02:38 PM            12,088 69fe178f-26e7-43a9-aa7d-2b616b672dde_eventlogservice.dll
@@ -371,7 +371,7 @@
 23-06-2025  10:42 AM            97,280 CastLaunch.dll
 23-06-2025  10:42 AM            63,704 CastSrv.exe
 07-12-2019  03:01 PM    <DIR>          CatRoot
-18-07-2025  10:26 PM    <DIR>          catroot2
+22-07-2025  10:43 AM    <DIR>          catroot2
 23-06-2025  10:41 AM           478,720 catsrv.dll
 07-12-2019  02:38 PM            48,128 catsrvps.dll
 23-06-2025  10:41 AM           522,240 catsrvut.dll
@@ -539,7 +539,7 @@
 23-06-2025  10:41 AM         1,724,928 comsvcs.dll
 23-06-2025  10:41 AM           859,136 comuid.dll
 01-02-2002  07:02 PM           322,640 concrt140.dll
-15-07-2025  12:53 PM    <DIR>          config
+22-07-2025  11:31 AM    <DIR>          config
 23-06-2025  10:41 AM           713,216 configmanager2.dll
 23-06-2025  10:41 AM            82,432 ConfigureExpandedStorage.dll
 23-06-2025  10:41 AM           867,840 conhost.exe
@@ -1042,7 +1042,7 @@
 23-06-2025  10:42 AM            47,616 DragDropExperienceCommon.dll
 23-06-2025  10:42 AM            47,616 DragDropExperienceDataExchangeDelegated.dll
 07-12-2019  02:39 PM            87,552 driverquery.exe
-18-07-2025  10:26 PM    <DIR>          drivers
+22-07-2025  11:30 AM    <DIR>          drivers
 07-12-2019  02:44 PM    <DIR>          DriverState
 19-07-2025  11:12 AM    <DIR>          DriverStore
 23-06-2025  10:42 AM            26,624 drprov.dll
@@ -2642,7 +2642,7 @@
 23-06-2025  10:41 AM           238,080 onex.dll
 07-12-2019  02:38 PM           113,152 onexui.dll
 07-12-2019  02:38 PM             2,832 onnxruntime.dll
-09-07-2025  06:26 PM    <DIR>          oobe
+22-07-2025  11:30 AM    <DIR>          oobe
 23-06-2025  10:41 AM           102,832 OOBE-Maintenance.exe
 23-06-2025  10:41 AM         2,191,360 OpcServices.dll
 01-04-2024  07:55 PM           509,560 OpenCL.dll
@@ -3312,7 +3312,7 @@
 23-06-2025  10:48 AM    <DIR>          sl-SI
 23-06-2025  10:41 AM           146,944 slc.dll
 23-06-2025  10:41 AM            22,528 slcext.dll
-21-07-2025  10:37 AM    <DIR>          SleepStudy
+22-07-2025  12:10 AM    <DIR>          SleepStudy
 07-12-2019  02:38 PM            20,352 SlideToShutDown.exe
 07-12-2019  03:20 PM    <DIR>          slmgr
 07-12-2019  02:38 PM           142,904 slmgr.vbs
@@ -3416,7 +3416,7 @@
 07-12-2019  03:23 PM            40,960 SrpUxNativeSnapIn.dll
 23-06-2025  10:42 AM           252,416 srrstr.dll
 23-06-2025  10:42 AM            59,392 SrTasks.exe
-21-07-2025  11:38 AM    <DIR>          sru
+22-07-2025  11:55 AM    <DIR>          sru
 23-06-2025  10:42 AM            65,024 srumapi.dll
 23-06-2025  10:42 AM           243,200 srumsvc.dll
 23-06-2025  10:41 AM           118,984 srvcli.dll
@@ -3569,6 +3569,7 @@
 09-07-2025  10:30 AM           145,408 TelephonyInteractiveUser.dll
 09-07-2025  10:30 AM             2,560 TelephonyInteractiveUserRes.dll
 09-07-2025  10:30 AM         3,964,928 tellib.dll
+23-06-2025  10:42 AM           134,656 telnet.exe
 23-06-2025  10:41 AM            74,752 TempSignedLicenseExchangeTask.dll
 23-06-2025  10:40 AM           100,808 TenantRestrictionsPlugin.dll
 23-06-2025  10:42 AM           436,224 termmgr.dll
@@ -4546,5 +4547,5 @@
 07-12-2019  02:38 PM            79,872 zipcontainer.dll
 23-06-2025  10:41 AM           309,248 zipfldr.dll
 07-12-2019  02:38 PM            30,720 ztrace_maps.dll
-            4418 File(s)  2,005,569,213 bytes
-             125 Dir(s)  231,920,324,608 bytes free
+            4419 File(s)  2,005,703,869 bytes
+             125 Dir(s)  206,653,501,440 bytes free
