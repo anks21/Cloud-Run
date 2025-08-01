@@ -2,7 +2,7 @@
 substitutions:
   _DEPLOYMENT_NAME: 'py-service'
   _IMAGE: 'us-west2-docker.pkg.dev/lyrical-tooling-467506-p7/test-repo/python-image'
-  _REGION: 'us-cental1'
+  _REGION: 'us-central1'
 
 # Specify the logs bucket to store build log
 #logsBucket: gs://cloud-build-logs-00
