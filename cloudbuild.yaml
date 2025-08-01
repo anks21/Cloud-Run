@@ -1,8 +1,8 @@
 # Define substitutions
 substitutions:
   _DEPLOYMENT_NAME: 'py-service'
-  _IMAGE: 'us-central1-docker.pkg.dev/pvt-stage-1/run-repo/run-app-image:v-1.0'
-  _REGION: 'asia-south1'
+  _IMAGE: 'us-west2-docker.pkg.dev/lyrical-tooling-467506-p7/test-repo/python-image'
+  _REGION: 'asia-west2'
 
 # Specify the logs bucket to store build log
 #logsBucket: gs://cloud-build-logs-00
